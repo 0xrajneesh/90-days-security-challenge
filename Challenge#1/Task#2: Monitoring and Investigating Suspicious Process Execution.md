@@ -26,8 +26,6 @@ sudo apt-get install sysmonforlinux
 
 ```
 
-nano sysmon-cong.xml
-
 <!--
     SysmonForLinux
 
