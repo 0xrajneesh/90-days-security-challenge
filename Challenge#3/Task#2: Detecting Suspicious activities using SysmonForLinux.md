@@ -15,7 +15,33 @@ sudo apt-get install sysmonforlinux
 
 ## Attack Simulation
 
-```
-sudo touch /etc/malicious_file
+- **Simulate Creation of a Suspicious Package Manager Configuration File:**
+    - Create a new file in the `/etc/apt/apt.conf.d/` directory (or any subdirectory within it) to simulate the configuration file creation. For example:
+    
+    ```bash
+    bash
+    Copy code
+    sudo touch /etc/apt/apt.conf.d/99-suspicious-config
+    
+    ```
+    
+    - This will generate a "creation" event which should match the query in the rule.
+- **Rename an Existing Configuration File (Optional):**
+    - You can also rename a configuration file to further simulate a suspicious activity:
+    
+    ```bash
+    bash
+    Copy code
+    sudo mv /etc/apt/apt.conf.d/01autoremove /etc/apt/apt.conf.d/01autoremove-backup
+    
+    ```
+    
+    - This action generates a "rename" event, which also matches the rule.
 
-```
+ - Run a Curl command to a suspicious site
+
+  ```
+  curl -X GET "https://bazaar.abuse.ch" -v
+  ```
+   
+
