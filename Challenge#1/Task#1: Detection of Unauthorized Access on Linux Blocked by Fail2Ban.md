@@ -79,8 +79,6 @@
 1. 
     
     ```bash
-    bash
-    Copy code
     ssh user@<target-ip>
     
     ```
