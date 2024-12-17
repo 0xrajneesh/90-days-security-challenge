@@ -21,7 +21,7 @@ Welcome to the **90 Days Security Challenge**, where you'll dive into real-world
 6. [**Practical Threat Hunting using Velociraptor**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%236)  
 7. [**Practical Threat Hunting using Osquery**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%237)  
 8. [**AWS Cloud Security Investigation with Splunk**](#link-to-challenge-8)  
-9. [**Security Automation with Splunk SOAR **](#link-to-challenge-9)  
+9. [**Security Automation with Splunk SOAR**](#link-to-challenge-9)  
 
 ---
 
