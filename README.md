@@ -1,4 +1,4 @@
-# **90 Days Security Challenge** 🎯  
+# **90 Days Security Challenge** - Complete Hands-on Bootcamp🎯  
 
 Welcome to the **90 Days Security Challenge**, where you'll dive into real-world cybersecurity scenarios and develop expertise in security investigations, forensics, and threat analysis. Whether you're a budding SOC analyst or an experienced professional looking to sharpen your skills, this challenge is tailored for you!
 
