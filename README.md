@@ -13,7 +13,7 @@ Welcome to the **90 Days Security Challenge**, where you'll dive into real-world
 
 ## **Challenges Included**  
 
-1. [**Security Investigation of Ubuntu Machine using Splunk**](#https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%231)  
+1. [**Security Investigation of Ubuntu Machine using Splunk**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%231)  
 2. [**Security Investigation on Windows Machine using Splunk**](#link-to-challenge-2)  
 3. [**Security Investigation on Ubuntu Machine using ELK SIEM**](#link-to-challenge-3)  
 4. [**Security Investigation of Windows Machine using ELK SIEM**](#link-to-challenge-4)  
