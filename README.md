@@ -14,12 +14,12 @@ Welcome to the **90 Days Security Challenge**, where you'll dive into real-world
 ## **Challenges Included**  
 
 1. [**Security Investigation of Ubuntu Machine using Splunk**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%231)  
-2. [**Security Investigation on Windows Machine using Splunk**](#link-to-challenge-2)  
-3. [**Security Investigation on Ubuntu Machine using ELK SIEM**](#link-to-challenge-3)  
-4. [**Security Investigation of Windows Machine using ELK SIEM**](#link-to-challenge-4)  
-5. [**Memory Forensics using Volatility3**](#link-to-challenge-5)  
-6. [**Malware Traffic Analysis using Wireshark**](#link-to-challenge-6)  
-7. [**Threat Detection with YARA Rules**](#link-to-challenge-7)  
+2. [**Security Investigation on Windows Machine using Splunk**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%232)  
+3. [**Security Investigation on Ubuntu Machine using ELK SIEM**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%233)  
+4. [**Security Investigation of Windows Machine using ELK SIEM**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%234)  
+5. [**Memory Forensics using Volatility3**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%235)  
+6. [**Malware Traffic Analysis using Wireshark**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%236)  
+7. [**Threat Detection with YARA Rules**](https://github.com/0xrajneesh/90-days-security-challenge/tree/main/Challenge%237)  
 8. [**Cloud Security Investigation using AWS CloudTrail Logs**](#link-to-challenge-8)  
 9. [**Endpoint Threat Hunting with Osquery**](#link-to-challenge-9)  
 
