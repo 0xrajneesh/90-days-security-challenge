@@ -220,6 +220,6 @@ Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
 Want to get started?
 
-[**Book Your Seat**](https://learn.haxsecurity.com/l/88c9b098f2)
+<a href="your-booking-link-here"><img src="https://img.shields.io/badge/-Book%20Your%20Seat-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
 
 
