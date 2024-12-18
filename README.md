@@ -28,7 +28,7 @@ Welcome to the **90 Days Security Challenge**, where you'll dive into real-world
 ## **How to Join**  
 
 🚀 Ready to take on the challenge?  
-1. [**Click Here to Buy the Program**](#link-to-purchase-program)  
+1. [**Click Here to Buy the Program**](https://learn.haxsecurity.com/l/88c9b098f2)  
 2. Receive exclusive access to the repository, step-by-step guidance, and community support.  
 3. Start your journey with daily tasks designed to expand your cybersecurity expertise!  
 
