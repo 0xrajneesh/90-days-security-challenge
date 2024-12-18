@@ -202,20 +202,24 @@
 
 Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
-### Video Tutorials:
-- 95+ Videos with step-by-step guide.
+- **Video Tutorials**: 95+ Videos with step-by-step guide.
+- **Live QnA**: Weekly Group call and doubt resolution session.
+- **Bonuses**: 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+- **Join the Community**: Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
+- **Earn Recognition**: Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
 
-### Live QnA:
-- Weekly Group call and doubt resolution session.
+# 🌟 Upcoming Batch - 90 Days Security Analyst Bootcamp 
 
-### Bonuses:
-- 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
-### Join the Community:
-- Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
+- **Video Tutorials**: 95+ Videos with step-by-step guide.
+- **Live QnA**: Weekly Group call and doubt resolution session.
+- **Bonuses**: 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+- **Join the Community**: Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
+- **Earn Recognition**: Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
 
-### Earn Recognition:
-- Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
+Want to get started?
 
-## Want to get started?
+[**Book Your Seat**](https://learn.haxsecurity.com/l/88c9b098f2)
+
 
