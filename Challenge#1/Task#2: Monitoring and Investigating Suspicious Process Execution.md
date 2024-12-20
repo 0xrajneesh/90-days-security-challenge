@@ -372,3 +372,17 @@
         - The process owner.
         - Commands executed by the process.
         - Network connections initiated.
+     
+# 🌟 Upcoming Batch - 90 Days Security Analyst Bootcamp 
+
+Get unstuck and complete all the tasks with detailed step-by-step videos plus
+
+- **Video Tutorials**: 95+ Videos with step-by-step guide.
+- **Live QnA**: Weekly Group call and doubt resolution session.
+- **Bonuses**: 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+- **Join the Community**: Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
+- **Earn Recognition**: Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
+
+Want to get started?
+
+<a href="your-booking-link-here"><img src="https://img.shields.io/badge/-Book%20Your%20Seat-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
