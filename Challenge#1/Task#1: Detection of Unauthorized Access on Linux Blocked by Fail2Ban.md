@@ -1,4 +1,6 @@
-**Objective**: Set up monitoring for unauthorized access attempts, trigger Fail2Ban to block malicious IPs, and analyze logs in Splunk.
+**Objective**: Set up monitoring for unauthorized access attempts, trigger Fail2Ban to block malicious IPs, and analyze logs in Splunk.    
+- **Detailed level**: Full
+- **Difficulty level**: Medium
 
 ---
 
