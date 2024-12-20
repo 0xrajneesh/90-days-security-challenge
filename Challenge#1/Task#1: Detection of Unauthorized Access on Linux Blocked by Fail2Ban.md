@@ -214,6 +214,6 @@ Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
 Want to get started?
 
-<a href="your-booking-link-here"><img src="https://img.shields.io/badge/-Book%20Your%20Seat-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
+<a href=https://learn.haxsecurity.com/services/90securitychallenge><img src="https://img.shields.io/badge/-Book%20Your%20Seat-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
 
 
