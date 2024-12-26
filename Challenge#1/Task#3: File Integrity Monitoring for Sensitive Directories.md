@@ -224,3 +224,16 @@ What is Auditd?
     - If critical files are altered or deleted, restore them from a backup.
 3. **Implement Additional Controls**:
     - Set permissions to restrict access to sensitive files:
+  
+# 🌟 Ultimate Security Analyst Course🌟
+
+Get unstuck and complete all the tasks with detailed step-by-step videos plus
+
+- **Video Tutorials**: 145+ Videos with step-by-step guide.
+- **Bonuses**: 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+- **Join the Community**: Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
+- **Earn Recognition**: Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
+
+Want to get started?
+
+<a href=[https://learn.haxsecurity.com/services/90securitychallenge](https://learn.haxsecurity.com/services/securitychallenge)><img src="https://img.shields.io/badge/-Book%20Your%20Seat-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
