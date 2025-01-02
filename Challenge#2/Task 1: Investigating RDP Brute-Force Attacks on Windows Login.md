@@ -37,30 +37,30 @@ index="sysmon_logs"  sourcetype = XmlWinEventLog:Sysmon
 ### **Incident Response**
 
 1. **Block Malicious IPs**:
-    - Use the Windows Firewall to block suspicious IP addresses:
-        
-        ```powershell
+- Use the Windows Firewall to block suspicious IP addresses:
+```
         powershell
         Copy code
         New-NetFirewallRule -DisplayName "Block RDP Brute Force" -Direction Inbound -Action Block -RemoteAddress 139.84.176.244
-        
-        ```
+         
+ ```
         
 2. **Reset Compromised Accounts**:
     - Reset passwords for compromised accounts:
         
-        ```
+ ```
         net user <username> <new_password>
         
-        ```
+ ```
         
 3. **Enable Account Lockout Policy**:
     - Set a lockout policy to prevent repeated brute-force attempts:
         
-        ```
+```
         secpol.msc
-        ```
+ ```
         
         - Navigate to `Account Lockout Policy` and configure:
             - Lockout Threshold: 5 failed attempts.
             - Lockout Duration: 15 minutes.
+     
