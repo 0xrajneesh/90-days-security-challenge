@@ -1,5 +1,6 @@
 ## Objective
 The objective of this task is to detect, investigate, and respond to brute-force attacks targeting the Remote Desktop Protocol (RDP) service on a Windows machine. This task uses Sysmon and Splunk to monitor failed and successful login attempts and identify suspicious patterns indicative of an attack.
+Detail-Level - Medium
 
 ## Steps
 1. Setting up Windows Machine
