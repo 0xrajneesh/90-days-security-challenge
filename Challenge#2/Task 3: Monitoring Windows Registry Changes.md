@@ -1,6 +1,9 @@
 ### **Objective**
 
-The objective of this task is to detect, investigate, and respond to unauthorized or suspicious changes to the Windows Registry, focusing on monitoring registry modifications that indicate malware installation, persistence mechanisms, or security configuration tampering using Sysmon and Splunk.
+The objective of this task is to detect, investigate, and respond to unauthorized or suspicious changes to the Windows Registry, focusing on monitoring registry modifications that indicate malware installation, persistence mechanisms, or security configuration tampering using Sysmon and Splunk.    
+
+`Detail-Level` - Medium
+
 
 ---
 
