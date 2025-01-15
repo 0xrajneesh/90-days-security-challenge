@@ -1,7 +1,7 @@
 ## Objective: Investigating Unauthorized SSH Access Attempts Using ELK SIEM
 To investigate unauthorized SSH access attempts on a target Linux machine using ELK SIEM with Fleet (Elastic Agent), visualize suspicious activities such as failed login attempts, brute-force attacks, and unauthorized access attempts, and create alerts for abnormal behaviors.
 
-- `Detailed level`: Medium
+- `Detailed level`: Low
 - `Difficulty level`: Medium
 
 
