@@ -48,11 +48,11 @@ sudo apt-get install sysmonforlinux
    
 ## Detection and Investigation on Elastic
 
-    - Go to **Kibana > Discover** and use queries like:
+- Go to **Kibana > Discover** and use queries like:   
     
-    ```
-    process.name: sysmon
-    ```
+     ```
+     process.name: sysmon
+     ```
     
-    - You should see logs for file and process changes. Apply filters for suspicious file paths or unauthorized processes.
+- You should see logs for file and process changes. Apply filters for suspicious file paths or unauthorized processes.
 
