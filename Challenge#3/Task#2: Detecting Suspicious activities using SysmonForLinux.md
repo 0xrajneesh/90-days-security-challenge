@@ -1,6 +1,8 @@
 ## Objective
 To detect and investigate suspicious system changes (such as potential rootkits or malware) on a target Ubuntu machine using ELK SIEM with Fleet (Elastic Agent), Sysmon for Linux, and the Sysmon for Linux Connector, visualize these changes in real-time, and create alerts for abnormal system behaviors.
 
+- `Detailed level`: Low
+- `Difficulty level`: Medium
 
 ## Install Sysmon for Linux
 
@@ -44,4 +46,13 @@ sudo apt-get install sysmonforlinux
   curl -X GET "https://bazaar.abuse.ch" -v
   ```
    
+## Detection and Investigation on Elastic
+
+    - Go to **Kibana > Discover** and use queries like:
+    
+    ```
+    process.name: sysmon
+    ```
+    
+    - You should see logs for file and process changes. Apply filters for suspicious file paths or unauthorized processes.
 
